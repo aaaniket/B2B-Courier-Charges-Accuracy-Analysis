@@ -1,7 +1,6 @@
 # B2B Courier Charges Accuracy Analysis
 
 The B2B Courier Charges Accuracy Analysis project aims to assess the accuracy of billing in business-to-business (B2B) courier services. By comparing expected charges with actual billing amounts, this analysis helps businesses identify discrepancies, optimize cost management, and ensure accurate billing for courier services.
-
 -- 
 ### Workflow:
 1. **Data Collection:**
